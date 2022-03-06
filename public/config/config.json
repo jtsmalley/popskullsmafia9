@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8ab54606e6B57d7b8e63d7A12f9201Ad9f5DD245",
+  "SCAN_LINK": "https://polygonscan.com/address/0x8ab54606e6b57d7b8e63d7a12f9201ad9f5dd245",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pop Skulls Mafia 35003",
+  "SYMBOL": "PSM35003",
+  "MAX_SUPPLY": 3500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.11,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/popskullsmafia35003",
+  "SHOW_BACKGROUND": true
+}
